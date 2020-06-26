@@ -9,4 +9,4 @@
 
 # Test
 # run test for a leetcode
-`pytest <name_of_foler>/`
+`pytest <name_of_folder>/`
