@@ -8,4 +8,4 @@ def test_two_sum():
    actual = two_sum.run(nums, target)
 
    assert(expected == actual)
-
+   print(actual)
